@@ -1,15 +1,11 @@
 # Preview
-![gif](https://github.com/kotabrog/ft_mini_ls/blob/main/image/ft_mini_ls.gif)
-## Overview
-I plan to make mainly 3D games and servers (mainly Minecraft and web).
-## Deliverables
-- [abc](a)
-## Execution environment
-- Windows11
-- Intel Core i5 6500
-- Built in GPU
-- DDR4 8GB ×2
-## Author
-[twitter](https://twitter.com/MataP_life)
-## Licenc
-[MIT](https://github.com/Matagram/Matagram/blob/main/LICENSE)
+  ![image](https://github.com/kotabrog/ft_mini_ls/blob/main/image/ft_mini_ls.gif)
+# overview
+  I'm not good at English, so I use Google Google Translate for everything.
+# Deliverables
+  - [sample][Official style site](https://github.com/Matagram/website)
+## License
+  [MIT](https://github.com/Matagram/Matagram/blob/main/LICENSE)
+# Author
+  [![X](https://abs.twimg.com/favicons/twitter.3.ico)](https://x.com/MataP_X)
+  [![youtube](https://www.youtube.com/s/desktop/bd3558ba/img/favicon_32x32.png)](https://www.youtube.com/@MataPgames)
